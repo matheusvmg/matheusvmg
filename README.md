@@ -7,7 +7,7 @@ Meu nome é Matheus Vinícius e atualmente sou um estudante fervoroso do nosso q
 Uma das minhas motivações é poder resolver um problema real através de linhas de código, e falando siceramente é fantástico essa sensação de dever cumprido e ver que você conseguiu, além de poder contribuir para a comunidade e para o time também.
 
 ## Estudos:mortar_board:
-Atualmente o meu campo de estudo está voltado para o javascript, sendo tecnologias frontEnd como: `HTML5, CSS3, bootstrap4 , javascript puro, reactJS` <br />quanto tecnologias backEnd e mobile como: <br /> `Nodejs, react native`.
+Atualmente o meu campo de estudo está voltado para o javascript, sendo tecnologias frontEnd como: `HTML5, CSS3, bootstrap4 , javascript, reactJS` <br />quanto tecnologias backEnd e mobile como: <br /> `Nodejs, react native`.
 
 ## Projetos
 Já que você chegou até aqui, dá uma olhada logo abaixo nos projetos em destaque(pinados) no perfil e deixe seu feedback.
