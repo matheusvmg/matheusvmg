@@ -24,6 +24,6 @@ Já que você chegou até aqui, dá uma olhada logo abaixo nos projetos em desta
 <p align="center"><img src="https://img.icons8.com/fluent/20/000000/instagram-new.png"/><a href="https://instagram.com/matheusgoes.dev">@matheusgoes.dev</a></p>
 <p align="center"><img src="https://img.icons8.com/officel/20/000000/linkedin.png"/><a href="https://www.linkedin.com/in/matheus-vin%C3%ADcius-meirelles-g%C3%B3es-5b8058aa/">Matheus Vinícius Meirelles Góes</a></p>
 
-`there is nothing better than coffee and code`
+`there is not nothing better than coffee and code`
 
 <h1 align="center">:octocat:</h1>
