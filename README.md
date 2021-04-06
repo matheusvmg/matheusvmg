@@ -9,10 +9,10 @@ Web developer:computer:
 
 ```
 if(bug){
-  coffee.make()
-  code()
+  coffee.make();
+  code();
 }else{
-  console.log('test again, there's always a bug')
+  console.log('test again, there's always a bug');
 }
   
 ```
@@ -20,4 +20,4 @@ if(bug){
 Wellcome devs, my name is Matheus Vinícius and I'm a javascript developer. I'm a passionate for programming & technology and this is one of the reasons that I'm write code, the second one is solve problems. The technology is here to help people improve their lives, make process more productive and resolve real problems.
 I'm always open to new ideas and love challenges, solving problems and work with the community.
 <br><br>
-`there isn't better than coffe and code!`:coffee:
+`there isn't nothing better than coffe and code!`:coffee:
