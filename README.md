@@ -5,7 +5,6 @@ Software Engineer :computer:
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheusgoes.dev/)
 ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusvmg/)
 ![Youtube Badge](https://img.shields.io/badge/-Youtube-orange?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCEtvDgD-imAdwyLH3x6oIuw?view_as=subscriber)
-![Blog TechNoDay](https://img.shields.io/badge/-BlogTechNoDay-orange?style=flat-square&logo=BlogTechNoDay&logoColor=white&link=https://matheusvmg.github.io/technoday/)
 
 ```
 if (bug) {
